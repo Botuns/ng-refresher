@@ -1,0 +1,6 @@
+*{
+  font-family: 'Fira Code',monospace
+}
+.content, .toolbar {
+  background-color: aliceblue !important;;
+}
